@@ -1,1 +1,1 @@
-https://github.com/ismailabdulm225-cpu/Tugas3-Pemerograman-Berbasis-Web/deployments/github-pages
+https://ismailabdulm225-cpu.github.io/Tugas3-Pemerograman-Berbasis-Web/
