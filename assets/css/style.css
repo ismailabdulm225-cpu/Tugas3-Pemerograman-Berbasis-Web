@@ -33,9 +33,9 @@ body {
     }
 }
 
-/* ==============================
-   LOGIN PAGE (POJOK KIRI ATAS)
-   ============================== */
+/* ===========
+   LOGIN PAGE 
+   =========== */
 body.login-page {
     min-height: 100vh;
     width: 100%;
