@@ -250,15 +250,6 @@ body.login-page #app {
     display: none;
 }
 
-
-/* ==== LOGIN PAGE ==== */
-body.login-page {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
-
 /* ==== GREETING ==== */
 #greeting {
     display: inline-block;
